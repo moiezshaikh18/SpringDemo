@@ -1,7 +1,13 @@
 package org.example;
 
+
 public class Alien {
-    public void code(){
+
+    public Alien() {
+        System.out.println("Object created..");
+    }
+
+    public void code() {
         System.out.println("Coding....");
     }
 }
