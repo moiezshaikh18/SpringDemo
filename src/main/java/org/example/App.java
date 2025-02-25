@@ -18,6 +18,7 @@ public class App {
         //Only object created when we're using by lazy-init="true" in spring.xml
         //Desktop desktop = context.getBean("com2",Desktop.class);
 
+        System.out.println("Hello World 25Feb 2025");
         System.out.println("Ended with 167");
 
     }
